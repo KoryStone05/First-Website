@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+    background-image: url("https://www.capeandislands.org/sites/wcai/files/styles/x_large/public/201708/IMG_9578.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+h1 {
+    font-size: 30pt;
+    color: darkorange;
+}
+
+p {
+    font-size: 20pt;
+    color: goldenrod;
+}
+
+h2 {
+    font-size: 30pt;
+    color: deepskyblue;
+    text-align: right;
+}
+
+ul {
+    list-style-position: inside;
+    font-size: 15pt;
+    color: peru;
+    text-align: right;
+}
+
+ol {
+    text-align: right;
+    font-size: 15pt;
+    list-style-position: inside; 
+}
+
+img {
+    image-size: 15%;
+    align-items: right;
+    border-collapse: collapse;
+
+}
